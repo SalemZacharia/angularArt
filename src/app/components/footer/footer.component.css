@@ -1,0 +1,13 @@
+
+.social{
+  display: flex;
+ justify-content: flex-end;
+
+
+
+}
+.logo{
+ width:200px;
+  display: flex;
+  justify-content: space-around;
+}
